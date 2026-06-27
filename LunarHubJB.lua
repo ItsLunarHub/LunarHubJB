@@ -8,22 +8,22 @@ loadstring(fetch("https://raw.githubusercontent.com/ItsLunarHub/LunarHubJB/main/
 repeat task.wait(0.1) until _G.LH ~= nil
 
 local scripts = {
-    "https://raw.githubusercontent.com/ItsLunarHub/LunarHubGAG2/main/Lunar2.lua",
-    "https://raw.githubusercontent.com/ItsLunarHub/LunarHubGAG2/main/Lunar3.lua",
-    "https://raw.githubusercontent.com/ItsLunarHub/LunarHubGAG2/main/Lunar4.lua",
-    "https://raw.githubusercontent.com/ItsLunarHub/LunarHubGAG2/main/Lunar5.lua",
-    "https://raw.githubusercontent.com/ItsLunarHub/LunarHubGAG2/main/Lunar6.lua",
-    "https://raw.githubusercontent.com/ItsLunarHub/LunarHubGAG2/main/Lunar7.lua",
-    "https://raw.githubusercontent.com/ItsLunarHub/LunarHubGAG2/main/Lunar8.lua",
-    "https://raw.githubusercontent.com/ItsLunarHub/LunarHubGAG2/main/Lunar9.lua",
-    "https://raw.githubusercontent.com/ItsLunarHub/LunarHubGAG2/main/Lunar10.lua",
-    "https://raw.githubusercontent.com/ItsLunarHub/LunarHubGAG2/main/Lunar11.lua",
-    "https://raw.githubusercontent.com/ItsLunarHub/LunarHubGAG2/main/Lunar12.lua",
-    "https://raw.githubusercontent.com/ItsLunarHub/LunarHubGAG2/main/Lunar13.lua",
-    "https://raw.githubusercontent.com/ItsLunarHub/LunarHubGAG2/main/Lunar14.lua",
-    "https://raw.githubusercontent.com/ItsLunarHub/LunarHubGAG2/main/Lunar15.lua",
-    "https://raw.githubusercontent.com/ItsLunarHub/LunarHubGAG2/main/Lunar16.lua",
-    "https://raw.githubusercontent.com/ItsLunarHub/LunarHubGAG2/main/Lunar17.lua",
+    "https://raw.githubusercontent.com/ItsLunarHub/LunarHubJB/main/Lunar2.lua",
+    "https://raw.githubusercontent.com/ItsLunarHub/LunarHubJB/main/Lunar3.lua",
+    "https://raw.githubusercontent.com/ItsLunarHub/LunarHubJB/main/Lunar4.lua",
+    "https://raw.githubusercontent.com/ItsLunarHub/LunarHubJB/main/Lunar5.lua",
+    "https://raw.githubusercontent.com/ItsLunarHub/LunarHubJB/main/Lunar6.lua",
+    "https://raw.githubusercontent.com/ItsLunarHub/LunarHubJB/main/Lunar7.lua",
+    "https://raw.githubusercontent.com/ItsLunarHub/LunarHubJB/main/Lunar8.lua",
+    "https://raw.githubusercontent.com/ItsLunarHub/LunarHubJB/main/Lunar9.lua",
+    "https://raw.githubusercontent.com/ItsLunarHub/LunarHubJB/main/Lunar10.lua",
+    "https://raw.githubusercontent.com/ItsLunarHub/LunarHubJB/main/Lunar11.lua",
+    "https://raw.githubusercontent.com/ItsLunarHub/LunarHubJB/main/Lunar12.lua",
+    "https://raw.githubusercontent.com/ItsLunarHub/LunarHubJB/main/Lunar13.lua",
+    "https://raw.githubusercontent.com/ItsLunarHub/LunarHubJB/main/Lunar14.lua",
+    "https://raw.githubusercontent.com/ItsLunarHub/LunarHubJB/main/Lunar15.lua",
+    "https://raw.githubusercontent.com/ItsLunarHub/LunarHubJB/main/Lunar16.lua",
+    "https://raw.githubusercontent.com/ItsLunarHub/LunarHubJB/main/Lunar17.lua",
 }
 
 for _, url in ipairs(scripts) do
